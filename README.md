@@ -19,3 +19,13 @@ Açılan sayfada dosyanın sağ üst tarafında bulunan **kopyalama butonuna** b
 > Linke tıklayınca Rickroll videosuna yönlendiriyor(https://youtu.be/dQw4w9WgXcQ):
 
 ![rickroll](./rickroll.png)
+
+---
+
+## Lisans ve Kullanım Şartları
+
+Bu proje **MIT Lisansı** ile korunmaktadır.  
+- Kodları kullanabilir, inceleyebilir ve kendi projende kullanabilirsiniz.  
+- Ancak **orijinal lisans ve telif hakkı bildirimi kaldırılmamalıdır**.  
+- Projeyi **kendinmiş gibi paylaşmak veya satmak yasaktır**.
+- Bana ulaşmak isterseniz Discord: [_sakuragi.](https://discord.com/users/848987722751410206)
