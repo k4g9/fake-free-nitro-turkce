@@ -10,3 +10,11 @@ Yazıyı Discord'da mesaj olarak yolladığınızda `https://discord.gift/G7xPqW
 Açılan sayfada dosyanın sağ üst tarafında bulunan **kopyalama butonuna** basın.  Böylece yazıyı düzgün bir şekilde kopyalamış olacaksınız ✅. Artık tek yapmanız gereken bu linki kurbanınıza Discord üzerinden göndermek.
 
 [![kopyalancak-yazı.txt](https://img.shields.io/badge/kopyalancak--yazı.txt-5865F2?style=for-the-badge)](./kopyalancak-yazı.txt)
+![yazı-kopyalama](./yazı-kopyalama.png)
+
+# Örnek Resimler:
+![discord1](./discord1.png)
+![discord2](./discord2.png)
+> Siteyi Ziyaret Et** butonuna tıklayınca Rickroll videosuna yönlendiriyor:
+
+![rickroll](./rickroll.png)
