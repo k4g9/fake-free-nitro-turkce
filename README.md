@@ -1,7 +1,7 @@
 # Nasıl kullanılır?
 > Tek yapmanız gereken aşağıdaki yazıyı aynı şekilde kopyalamak, daha sonra kurbanınıza Discord üzerinden göndermek. **(aralarında boşluk olmadan tüm yazı bitişik)**
 
-Yazıyı Discord'da mesaj olarak yolladığınızda `https://discord.gift/G7xPqW2dLm9tZaHv` şeklinde görünücek ama tıklayınca rickroll yani [Rick Astley - Never Gonna Give You Up](https://youtu.be/dQw4w9WgXcQ) videosu açılacak bu sayede hedefinizi başarıyla kandırmış olucaksınız.
+Yazıyı Discord'da mesaj olarak yolladığınızda `https://discord.gift/G7xPqW2dLm9tZaHv` şeklinde görünücek ama tıklayınca Rickroll yani [Rick Astley - Never Gonna Give You Up](https://youtu.be/dQw4w9WgXcQ) videosu açılacak bu sayede hedefinizi başarıyla kandırmış olucaksınız.
 
 ## `[https://](<https://kagee9.github.io/fake-free-nitro-turkce>)[discord.gift/G7xPqW2dLm9tZaHv](https://kagee9.github.io/fake-free-nitro-turkce)`
 
@@ -13,8 +13,9 @@ Açılan sayfada dosyanın sağ üst tarafında bulunan **kopyalama butonuna** b
 ![yazı-kopyalama](./yazı-kopyalama.png)
 
 # Örnek Resimler:
+> Discord'da mesaj nasıl görünüyor:
+
 ![discord1](./discord1.png)
-![discord2](./discord2.png)
-> Siteyi Ziyaret Et** butonuna tıklayınca Rickroll videosuna yönlendiriyor:
+> Linke tıklayınca Rickroll videosuna yönlendiriyor(https://youtu.be/dQw4w9WgXcQ):
 
 ![rickroll](./rickroll.png)
