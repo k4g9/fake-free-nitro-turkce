@@ -3,7 +3,7 @@
 
 Yazıyı Discord'da mesaj olarak yolladığınızda `https://discord.gift/G7xPqW2dLm9tZaHv` şeklinde görünücek ama tıklayınca Rickroll yani [Rick Astley - Never Gonna Give You Up](https://youtu.be/dQw4w9WgXcQ) videosu açılacak bu sayede hedefinizi başarıyla kandırmış olucaksınız.
 
-## `[https://](<https://kagee9.github.io/fake-free-nitro-turkce>)[discord.gift/G7xPqW2dLm9tZaHv](https://kagee9.github.io/fake-free-nitro-turkce)`
+## `[https://](<https://k4g9.github.io/fake-free-nitro-turkce>)[discord.gift/G7xPqW2dLm9tZaHv](https://k4g9.github.io/fake-free-nitro-turkce)`
 
 # Yazıyı düzgün şekilde kopyalamak için:
 > Aşağıdaki **kopyalancak-yazı.txt** yazan butona tıklayın.
