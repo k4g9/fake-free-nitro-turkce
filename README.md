@@ -28,4 +28,4 @@ Bu proje **MIT Lisansı** ile korunmaktadır.
 - Kodları kullanabilir, inceleyebilir ve kendi projende kullanabilirsiniz.  
 - Ancak **orijinal lisans ve telif hakkı bildirimi kaldırılmamalıdır**.  
 - Projeyi **kendinmiş gibi paylaşmak veya satmak yasaktır**.
-- Bana ulaşmak isterseniz Discord: [_sakuragi.](https://discord.com/users/848987722751410206)
+- Bana ulaşmak isterseniz Discord: [k4g9](https://discord.com/users/848987722751410206)
